@@ -1,0 +1,61 @@
+2017-01-14 14:15:31 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-14 14:15:32 INFO  BasePage:60 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='login']
+2017-01-14 14:15:33 INFO  BasePage:60 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='passwd']
+2017-01-14 14:15:36 INFO  BasePage:35 - Method 'waitForElementToBeClickableAndClick' was successful for element: //span[text()='Войти']/parent::button
+2017-01-14 14:15:36 INFO  LoginPage:26 - Method 'makeLogIn' was successful.
+2017-01-14 15:30:48 INFO  DriverConfig:35 - Method 'OpenDefaultPage' was successful.
+2017-01-14 15:30:48 ERROR BasePage:64 - Method 'waitForElementToBeClickableAndSendKeys' has failed for element: //input[@name='login']
+2017-01-14 15:30:48 ERROR LoginPage:29 - Method 'makeLogIn' has failed, stack: java.lang.NullPointerException
+2017-01-14 15:32:29 INFO  DriverConfig:35 - Method 'OpenDefaultPage' was successful.
+2017-01-14 15:32:29 ERROR BasePage:64 - Method 'waitForElementToBeClickableAndSendKeys' has failed for element: //input[@name='login']
+2017-01-14 15:32:29 ERROR LoginPage:29 - Method 'makeLogIn' has failed, stack: java.lang.NullPointerException
+2017-01-14 15:37:55 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-14 15:37:56 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='login']
+2017-01-14 15:37:56 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='passwd']
+2017-01-14 15:37:57 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //span[text()='Войти']/parent::button
+2017-01-14 15:37:57 INFO  LoginPage:26 - Method 'makeLogIn' was successful.
+2017-01-14 21:18:51 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-14 21:19:54 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-14 21:19:54 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='login']
+2017-01-14 21:19:55 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='passwd']
+2017-01-14 21:19:59 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //span[text()='Войти']/parent::button
+2017-01-14 21:19:59 INFO  LoginPage:26 - Method 'makeLogIn' was successful.
+2017-01-14 21:20:09 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //a[@data-params='source=toolbar']
+2017-01-14 21:20:13 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //div[@name='to']
+2017-01-14 21:20:14 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='subj']
+2017-01-14 21:20:15 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //button[@id='nb-17']
+2017-01-14 21:20:16 INFO  BasePage:49 - Method 'waitForElementToBeClickable' was successful for element: //div[text()='Лист успішно надіслано']
+2017-01-14 21:20:16 INFO  LoginPage:31 - Method 'sendMessage' was successful.
+2017-01-14 21:44:51 ERROR BasePage:64 - Method 'waitForElementToBeClickableAndSendKeys' has failed for element: //input[@name='login']
+2017-01-14 21:44:51 ERROR LoginPage:29 - Method 'makeLogIn' has failed, stack: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=55.0.2883.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.27 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-FIJL4G6', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\Artem\AppData\Local\Temp\scoped_dir6444_11577}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 60016aeaea5c1889fd5ccfd35f00c3cc
+*** Element info: {Using=xpath, value=//input[@name='login']}
+2017-01-15 20:57:25 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-15 20:57:26 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='login']
+2017-01-15 20:57:27 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='passwd']
+2017-01-15 20:57:33 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //span[text()='Войти']/parent::button
+2017-01-15 20:57:33 INFO  LoginPage:26 - Method 'makeLogIn' was successful.
+2017-01-15 20:57:40 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //a[@data-params='source=toolbar']
+2017-01-15 20:57:50 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //div[@name='to']
+2017-01-15 20:57:51 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='subj']
+2017-01-15 20:57:51 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //button[@id='nb-17']
+2017-01-15 20:57:52 INFO  BasePage:49 - Method 'waitForElementToBeClickable' was successful for element: //div[text()='Лист успішно надіслано']
+2017-01-15 20:57:52 INFO  LoginPage:33 - Method 'sendMessage' was successful.
+2017-01-15 21:06:46 INFO  DriverConfig:22 - Method 'OpenDefaultPage' was successful.
+2017-01-15 21:06:46 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='login']
+2017-01-15 21:06:47 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='passwd']
+2017-01-15 21:06:50 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //span[text()='Войти']/parent::button
+2017-01-15 21:06:50 INFO  LoginPage1:26 - Method 'makeLogIn' was successful.
+2017-01-15 21:07:00 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //a[@data-params='source=toolbar']
+2017-01-15 21:07:01 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //div[@name='to']
+2017-01-15 21:07:02 INFO  BasePage:62 - Method 'waitForElementToBeClickableAndSendKeys' was successful for element: //input[@name='subj']
+2017-01-15 21:07:03 INFO  BasePage:37 - Method 'waitForElementToBeClickableAndClick' was successful for element: //button[@id='nb-17']
+2017-01-15 21:07:03 INFO  BasePage:49 - Method 'waitForElementToBeClickable' was successful for element: //div[text()='Лист успішно надіслано']
+2017-01-15 21:07:03 INFO  MainPage1:33 - Method 'sendMessage' was successful.
